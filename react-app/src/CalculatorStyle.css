@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(140, 186, 189);
+  font-family: Arial;
+}
+
+.calculator {
+  text-align: center;
+  margin-top: 150px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: rgb(83, 120, 120);
+  color: rgb(12, 7, 7);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(133, 133, 249);
+}
